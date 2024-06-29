@@ -50,9 +50,9 @@ svg{
 .dark-theme{
   --color-text: var(--color-text-dark);
   --color-background: var(--color-background-dark);
-  --color-pink: var(--color-text-dark);
-  --color-green: var(--color-text-dark);
-  --color-blue: var(--color-text-dark);
+  --color-pink: var(--color-pink-dark);
+  --color-green: var(--color-green-dark);
+  --color-blue: var(--color-blue-dark);
 }
 
 /* Experience --------------------------------------------- */
